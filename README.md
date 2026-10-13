@@ -13,3 +13,12 @@ A lightweight, interactive Node.js CLI tool designed to instantly scaffold boile
 1. Clone this repository:
    ```bash
    git clone [https://github.com/abikurian/repo-forge.git](https://github.com/abikurian/repo-forge.git)
+2. Navigate into the directory and install dependencies:
+
+Bash
+cd repo-forge
+npm install
+Link the package globally on your local machine:
+
+Bash
+npm link
