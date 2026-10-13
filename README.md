@@ -15,10 +15,10 @@ A lightweight, interactive Node.js CLI tool designed to instantly scaffold boile
    git clone [https://github.com/abikurian/repo-forge.git](https://github.com/abikurian/repo-forge.git)
 2. Navigate into the directory and install dependencies:
 
-Bash
+```Bash
 cd repo-forge
 npm install
-Link the package globally on your local machine:
 
-Bash
+3. Link the package globally on your local machine:
+```Bash
 npm link
