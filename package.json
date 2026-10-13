@@ -1,0 +1,21 @@
+{
+  "name": "repo-forge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bin": {
+    "repo-forge": "./bin/index.js"
+  },
+  "dependencies": {
+    "commander": "^15.0.0",
+    "fs-extra": "^11.4.1",
+    "inquirer": "^14.2.3"
+  }
+}
